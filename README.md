@@ -1,4 +1,4 @@
-# zed-landing-page
+# vue-landing-page
 
 ## Project setup
 ```
